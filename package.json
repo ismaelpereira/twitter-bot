@@ -1,0 +1,16 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot to save memes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ismael Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "twitter-api-v2": "^1.11.2",
+    "twitter.js": "^0.13.0"
+  }
+}
